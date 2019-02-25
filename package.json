@@ -1,11 +1,11 @@
 {
-  "name": "nodejs-pool",
+  "name": "zano-nodejs-pool",
   "version": "0.0.1",
-  "description": "Fairly simple universal cryptonote pool",
+  "description": "Fairly simple universal Zano pool",
   "main": "init.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Snipa22/node-crypto-pool.git"
+    "url": "https://github.com/hyle-team/zano-nodejs-pool.git"
   },
   "author": "Alexander Blair",
   "license": "MIT",
