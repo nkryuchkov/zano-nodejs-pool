@@ -43,7 +43,7 @@
   },
   "optionalDependencies": {
     "cryptonote-util": "git://github.com/nkryuchkov/zano-node-cryptonote-util.git#zano",
-    "zano-util": "git://github.com/nkryuchkov/zano-node-util.git#hashing",
+    "zano-util": "git://github.com/nkryuchkov/zano-node-util.git#progpow",
     "cryptonight-hashing": "git+https://github.com/MoneroOcean/node-cryptonight-hashing.git",
     "multi-hashing": "git+https://github.com/hyle-team/node-multi-hashing-aesni.git#wild_keccak2"
   }
