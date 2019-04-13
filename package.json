@@ -42,8 +42,7 @@
     "zmq": "^2.15.3"
   },
   "optionalDependencies": {
-    "cryptonote-util": "git://github.com/nkryuchkov/zano-node-cryptonote-util.git#zano",
-    "zano-util": "git://github.com/nkryuchkov/zano-node-util.git#progpow",
+    "zano-util": "git://github.com/nkryuchkov/zano-node-util.git#progpow-new",
     "cryptonight-hashing": "git+https://github.com/MoneroOcean/node-cryptonight-hashing.git",
     "multi-hashing": "git+https://github.com/hyle-team/node-multi-hashing-aesni.git#wild_keccak2"
   }
